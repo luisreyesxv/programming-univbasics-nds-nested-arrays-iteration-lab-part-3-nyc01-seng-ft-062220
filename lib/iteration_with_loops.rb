@@ -1,7 +1,7 @@
 def join_nested_strings(src)
   combined_strings = Array.new
 
-  for x in Src
+  for x in src
     if x.class == Strings
       combined_strings << "#{x} "
     end
