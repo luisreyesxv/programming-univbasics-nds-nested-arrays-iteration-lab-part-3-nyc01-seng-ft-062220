@@ -3,9 +3,9 @@ def join_nested_strings(src)
 
   for x in Src
     if x.class == Strings
-      combined_strings << "#{x} " 
+      combined_strings << "#{x} "
     end
-      
+
 
   end
   combined_strings.join
