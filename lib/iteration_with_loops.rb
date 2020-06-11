@@ -1,4 +1,4 @@
-require "pry"
+
 def join_nested_strings(src)
   combined_strings = Array.new
 
