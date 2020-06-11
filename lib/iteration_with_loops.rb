@@ -7,7 +7,7 @@ def join_nested_strings(src)
       if y.class == String
         combined_strings << "#{y} "
       end
-    end  
+    end
 
   end
   binding.pry
