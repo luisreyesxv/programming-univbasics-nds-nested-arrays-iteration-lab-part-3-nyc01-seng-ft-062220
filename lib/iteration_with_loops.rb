@@ -10,6 +10,6 @@ def join_nested_strings(src)
     end
 
   end
-  binding.pry
+
   combined_strings.join
 end
